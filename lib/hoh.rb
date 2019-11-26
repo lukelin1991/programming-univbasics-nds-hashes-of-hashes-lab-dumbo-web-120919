@@ -43,5 +43,4 @@ def naming_system
   # HoH all the way to Species!
   PORTION_1 = {}
   return PORTION_1
-
 end
